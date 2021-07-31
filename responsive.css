@@ -74,3 +74,10 @@
   padding: 4px 8px;
 }
 }
+
+@media screen and (max-width: 530px) {
+  #services .box  img{
+  width: 160px;
+  margin-top: 2px;
+}
+}
